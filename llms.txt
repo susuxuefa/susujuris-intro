@@ -1,0 +1,16 @@
+# 苏酥学法（susujuris.cn）
+
+> 法律、经济与法经济学的中文个人站：279 篇指导性案例整理、100 条术语释义、7 篇法经济学文章、司法文件与浏览器端小工具。
+
+## 主要页面
+
+- [首页](https://susujuris.cn/)
+- [指导性案例索引（279 篇）](https://susujuris.cn/cases.html)
+- [概念库（100 条：法学 / 经济学 / 法经济学）](https://susujuris.cn/articles.html)
+- [司法文件](https://susujuris.cn/documents.html)
+- [工具盒](https://susujuris.cn/tool/)
+- [关于与留言](https://susujuris.cn/messages.html)
+
+## 使用许可
+
+正文与释义采用 CC BY 4.0：可引用、可再发布，请署名并链接回 https://susujuris.cn 。
