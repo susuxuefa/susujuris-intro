@@ -8,7 +8,7 @@
 
 - **279 篇指导性案例**（编号 1–279）：最高人民法院指导性案例的裁判要点整理，可按编号直达（`/case-1.html` … `/case-279.html`），索引在 `/cases.html`。
 - **259 部现行有效司法解释**：从最高人民法院「权威发布 > 司法解释」栏目 401 条中逐条核对，只收现行有效文本；已废止 15、已被修改 29 剔除并记录依据。索引在 `/shifashi.html`，单篇为 `/sfjs-1.html` …
-- **数据与下载**：`/data.html` 说明收录口径、版本日志与引用格式，开放 CSV／JSON 元数据（CC BY 4.0）；全文 Markdown 见开源仓库 [susujuris-law-data](https://github.com/susuxuefa/law-data)。
+- **数据与下载**：`/data.html` 说明收录口径、版本日志与引用格式，开放 CSV／JSON 元数据（CC BY 4.0）；全文 Markdown 见开源仓库 [law-data](https://github.com/susuxuefa/law-data)。
 - **概念库 100 条**：法学 42 / 经济学 41 / 法经济学 17。每条释义 100–180 字，按「定义 → 机制或直觉 → 边界与相邻概念」三段写，在 `/articles.html#concepts`。
 - **法经济学文章 7 篇**：从科斯定理、汉德公式到效率违约，用经济学的工具拆法律规则。
 - **司法文件**：`/documents.html` 汇总可下载的司法文件。
