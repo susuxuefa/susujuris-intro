@@ -2,6 +2,8 @@
 
 法律 × 经济 × 工具的个人站：**https://susujuris.cn**
 
+[GitHub](https://github.com/susuxuefa) · [ORCID](https://orcid.org/0009-0005-3241-7366) · [知乎](https://www.zhihu.com/people/susujuris)
+
 > 读一点法律与经济，也动手做一点小工具。
 
 ## 这个站有什么

@@ -2,6 +2,12 @@
 
 > 法律、经济与法经济学的中文个人站：259 部现行有效司法解释、279 篇指导性案例、100 条术语释义、7 篇法经济学文章、开放数据与浏览器端小工具。
 
+## 身份
+
+- GitHub: https://github.com/susuxuefa
+- ORCID: https://orcid.org/0009-0005-3241-7366
+- 知乎: https://www.zhihu.com/people/susujuris
+
 ## 主要页面
 
 - [首页](https://susujuris.cn/)
