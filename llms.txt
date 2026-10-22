@@ -8,7 +8,7 @@
 - [司法解释索引（现行有效 259 篇）](https://susujuris.cn/shifashi.html)
 - [指导性案例索引（279 篇）](https://susujuris.cn/cases.html)
 - [数据与下载（口径、版本、CSV/JSON）](https://susujuris.cn/data.html)
-- [开放数据仓库（全文 Markdown）](https://github.com/susuxuefa/susujuris-law-data)
+- [开放数据仓库（全文 Markdown）](https://github.com/susuxuefa/law-data)
 - [概念库（100 条：法学 / 经济学 / 法经济学）](https://susujuris.cn/articles.html)
 - [司法文件](https://susujuris.cn/documents.html)
 - [工具盒](https://susujuris.cn/tool/)
