@@ -1,6 +1,6 @@
 # 苏酥学法（susujuris.cn）
 
-> 法律、经济与法经济学的中文个人站：259 部现行有效司法解释、279 篇指导性案例、100 条术语释义、7 篇法经济学文章、开放数据与浏览器端小工具。
+> 法律、经济与法经济学的中文个人站：259 部现行有效司法解释、279 篇指导性案例（其中 6 篇不再参照）、100 条术语释义、7 篇法经济学文章、开放数据与浏览器端小工具。
 
 ## 身份
 
@@ -12,7 +12,8 @@
 
 - [首页](https://susujuris.cn/)
 - [司法解释索引（现行有效 259 篇）](https://susujuris.cn/shifashi.html)
-- [指导性案例索引（279 篇）](https://susujuris.cn/cases.html)
+- [指导性案例索引（现行 273 篇）](https://susujuris.cn/cases.html)
+- [废止与不再参照（6 篇案例 + 29 条司法解释旧版）](https://susujuris.cn/sfjs-amended.html)
 - [数据与下载（口径、版本、CSV/JSON）](https://susujuris.cn/data.html)
 - [开放数据仓库（全文 Markdown）](https://github.com/susuxuefa/law-data)
 - [概念库（100 条：法学 / 经济学 / 法经济学）](https://susujuris.cn/articles.html)
